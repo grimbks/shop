@@ -13,7 +13,7 @@
           href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/styles/github-dark.min.css" />
      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js"></script>
 
-     <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+     <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet" />
 
      <style>
           * {
@@ -25,17 +25,18 @@
           :root {
                --bg: #f5f5f5;
                --fg: #000;
-               --accent: #ff8c00;
+               --accent: #adff2f;
                --card-bg: #fff;
                --radius: 10px;
                --shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
           }
 
           body {
-               font-family: "Roboto Mono", monospace;
+               font-family: "Special Elite", cursive;
                background: var(--bg);
                color: var(--fg);
                min-height: 100vh;
+               font-size: 18px;
           }
 
           nav {
@@ -70,6 +71,7 @@
                text-decoration: none;
                cursor: pointer;
                display: inline-block;
+               font-size: 16px;
           }
 
           main {
@@ -85,10 +87,51 @@
           }
 
           @media (max-width: 768px) {
+               body {
+                    font-size: 16px;
+               }
+
                main {
                     padding: 20px;
                     width: calc(100% - 20px);
                     margin-top: 80px;
+               }
+
+               main h1 {
+                    font-size: 1.8em;
+               }
+
+               main h2 {
+                    font-size: 1.5em;
+               }
+
+               main h3 {
+                    font-size: 1.3em;
+               }
+
+               main p,
+               main li {
+                    font-size: 1em;
+               }
+
+               .page-links {
+                    padding: 10px;
+               }
+
+               .page-link {
+                    padding: 6px 12px;
+                    font-size: 0.9em;
+               }
+          }
+
+          @media (max-width: 480px) {
+               body {
+                    font-size: 15px;
+               }
+
+               main {
+                    padding: 15px;
+                    width: calc(100% - 10px);
                }
 
                main h1 {
@@ -103,37 +146,9 @@
                     font-size: 1.1em;
                }
 
-               .page-links {
-                    padding: 10px;
-               }
-
-               .page-link {
-                    padding: 6px 12px;
-                    font-size: 0.9em;
-               }
-          }
-
-          @media (max-width: 480px) {
-               main {
-                    padding: 15px;
-                    width: calc(100% - 10px);
-               }
-
-               main h1 {
-                    font-size: 1.3em;
-               }
-
-               main h2 {
-                    font-size: 1.2em;
-               }
-
-               main h3 {
-                    font-size: 1em;
-               }
-
                main p,
                main li {
-                    font-size: 0.9em;
+                    font-size: 0.95em;
                }
 
                .page-link {
@@ -143,21 +158,21 @@
           }
 
           main h1 {
-               font-size: 2em;
+               font-size: 2.5em;
                font-weight: 700;
                margin-bottom: 0.5em;
                margin-top: 0.5em;
           }
 
           main h2 {
-               font-size: 1.5em;
+               font-size: 2em;
                font-weight: 700;
                margin-bottom: 0.5em;
                margin-top: 1em;
           }
 
           main h3 {
-               font-size: 1.17em;
+               font-size: 1.5em;
                font-weight: 700;
                margin-bottom: 0.5em;
                margin-top: 1em;
@@ -165,7 +180,8 @@
 
           main p {
                margin-bottom: 1em;
-               line-height: 1.6;
+               line-height: 1.8;
+               font-size: 1.1em;
           }
 
           main ul,
@@ -176,12 +192,13 @@
 
           main li {
                margin-bottom: 0.5em;
-               line-height: 1.6;
+               line-height: 1.8;
+               font-size: 1.1em;
           }
 
           main a {
-               color: var(--accent);
-               text-decoration: underline;
+               color: orange;
+               text-decoration: none;
           }
 
           main blockquote {
@@ -189,6 +206,7 @@
                padding-left: 1em;
                margin: 1em 0;
                color: #666;
+               font-style: italic;
           }
 
           main hr {
@@ -215,7 +233,8 @@
                background: #f0f0f0;
                padding: 2px 6px;
                border-radius: 4px;
-               font-family: "Roboto Mono", monospace;
+               font-family: "Special Elite", cursive;
+               font-size: 0.9em;
           }
 
           main img {
@@ -223,22 +242,18 @@
                height: auto;
                display: block;
                margin: 1em 0;
+               border-radius: 8px;
           }
 
           footer {
                text-align: center;
                padding: 32px 20px;
-               font-size: 13px;
+               font-size: 14px;
                color: #666;
           }
 
           footer a {
-               color: #666;
-               text-decoration: none;
-          }
-
-          main a {
-               text-decoration: none;
+               color: black;
           }
      </style>
 </head>
@@ -246,7 +261,8 @@
 <body>
 
      <nav>
-          <img src="./img/logogrim.png" width="34" height="34" style="border-radius:6px;background:#fff;padding:3px;">
+          <img src="./img/logogrim.png" width="34" height="34" style="border-radius:6px;background:#fff;padding:3px;"
+               alt="Logo">
           <div class="page-links" id="pageLinks"></div>
      </nav>
 
@@ -295,7 +311,7 @@
           async function loadMarkdown() {
                try {
                     const res = await fetch("Home.md");
-                    if (!res.ok) throw new Error('Arquivo main.md não encontrado');
+                    if (!res.ok) throw new Error('Arquivo Home.md não encontrado');
 
                     let md = await res.text();
                     md = removeEmojis(md);
