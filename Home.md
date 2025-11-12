@@ -4,6 +4,9 @@
 
 
 
+Projeto criado por **Guilherme Ribeiro**, um profissional da área da programação, mas também entusiasta da escrita e da literatura, principalmente worldbuilding, lore, ficção, terror, mitologia, etc. Edito meus **eBooks** tanto em formato **EPUB quanto PDF**. O contato para vendas é feito diretamente comigo.
+
+
 ---
 
 
@@ -63,7 +66,6 @@
 
 
 - [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr)    
-- [github.com/devgbr86](https://github.com/devgbr86)
 
 
 
