@@ -1,26 +1,18 @@
-# @grimbks
-
-
-
-
-
-Projeto criado por **Guilherme Ribeiro**, um profissional da área da programação, mas também entusiasta da escrita e da literatura, principalmente worldbuilding, lore, ficção, terror, mitologia, etc. Edito meus **eBooks** tanto em formato **EPUB quanto PDF**. O contato para vendas é feito diretamente comigo.
-
-
----
-
-
-
-
-   
-
-
-
-
 ## Ebooks
 
 
 
+
+
+
+
+
+- Ficção
+- Terror
+- Contos
+- Histórias
+- Mitologia
+- Ebook (EPUB/PDF)
 
 
 
@@ -44,19 +36,22 @@ Projeto criado por **Guilherme Ribeiro**, um profissional da área da programaç
 
 
 
-### Contato para Vendas 
 
+
+
+## Comprar
+
+
+
+  
+
+- Email: topverbs@gmail.com
 - Atendimento direto comigo
 - Envio imediato
 - PIX/Transferência
-- WhatsApp: (31) 99698-1103
-- E-mail: topverbs@gmail.com
 
 
-
-
-
-
+---
 
 
 
@@ -65,7 +60,10 @@ Projeto criado por **Guilherme Ribeiro**, um profissional da área da programaç
 
 
 
-- [linkedin.com/in/devgbr](https://www.linkedin.com/in/devgbr)    
+- [LinkedIn](https://www.linkedin.com/in/devgbr)
+- [github.com/grimbks](https://github.com/grimbks)
+ 
+
 
 
 
@@ -82,4 +80,7 @@ Projeto criado por **Guilherme Ribeiro**, um profissional da área da programaç
   <img src="./img/logogrim.png" alt="Descrição da imagem" style="border-radius: 50%;
   width: 135px; height: 135px;">
 </p>
+
+
+
 
