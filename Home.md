@@ -7,8 +7,10 @@
 
 
 - Literatura Ficcional
-- Terror, Contos e Mitologia
-### Contato para Vendas
+- Terror
+- Contos e Mitologia
+---
+**Contato para Vendas**
 - topverbs@gmail.com
 - Formatos EPUB/PDF
 - Envio imediato
@@ -26,7 +28,6 @@
 </p>
 
 - PREÇO: 18,00 REAIS
-- FORMATO EPUB/PDF
 
 
 ---
@@ -40,7 +41,6 @@
 
 
 - PREÇO: 18,00 REAIS
-- FORMATO EPUB/PDF
 
 
 
