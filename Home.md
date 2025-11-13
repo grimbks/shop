@@ -1,10 +1,15 @@
 ## Ebooks
 
 
+
   
-- Ficção, Terror, Contos, Histórias e Mitologia
-- Formatos EPUB/PDF
+
+
+
+- Literatura Ficcional
+- Terror, Contos e Mitologia
 - Contato para Vendas: topverbs@gmail.com
+- Formatos EPUB/PDF
 - Envio imediato
 - PIX/Transferência
   
