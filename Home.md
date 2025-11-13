@@ -6,16 +6,20 @@
 
 
 
-
-- Ficção
-- Terror
-- Contos
-- Histórias
-- Mitologia
-- Ebook (EPUB/PDF)
+<p align="left">
+  <img src="./img/artico.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+</p>
 
 
 
+
+---
+
+
+
+<p align="left">
+  <img src="./img/monolitos.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+</p>
 
 
 
@@ -59,9 +63,8 @@
 
 
 
-
-- [LinkedIn](https://www.linkedin.com/in/devgbr)
-- [github.com/grimbks](https://github.com/grimbks)
+- topverbs@gmail.com
+- instagram...
  
 
 
