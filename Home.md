@@ -8,7 +8,8 @@
 
 - Literatura Ficcional
 - Terror, Contos e Mitologia
-- Contato para Vendas: topverbs@gmail.com
+### Contato para Vendas
+- topverbs@gmail.com
 - Formatos EPUB/PDF
 - Envio imediato
 - PIX/Transferência
