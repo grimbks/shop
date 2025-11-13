@@ -7,7 +7,7 @@
 
 
 <p align="left">
-  <img src="./img/MONO.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+  <img src="./img/monolitoscriacao.png" alt="Descrição da img" style="width: 21%; height: 21%;">
 </p>
 
 - PREÇO: 18,00 REAIS
@@ -19,7 +19,7 @@
 
 
 <p align="left">
-  <img src="./img/ARTICO.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+  <img src="./img/contosartico.png" alt="Descrição da img" style="width: 21%; height: 21%;">
 </p>
 
 
