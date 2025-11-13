@@ -7,10 +7,11 @@
 
 
 <p align="left">
-  <img src="./img/artico.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+  <img src="./img/MONO.png" alt="Descrição da img" style="width: 21%; height: 21%;">
 </p>
 
-
+- PREÇO: 18,00 REAIS
+- FORMATO EPUB/PDF
 
 
 ---
@@ -18,11 +19,13 @@
 
 
 <p align="left">
-  <img src="./img/monolitos.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+  <img src="./img/ARTICO.png" alt="Descrição da img" style="width: 21%; height: 21%;">
 </p>
 
 
 
+- PREÇO: 18,00 REAIS
+- FORMATO EPUB/PDF
 
 
 
