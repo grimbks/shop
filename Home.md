@@ -1,6 +1,15 @@
 ## Ebooks
 
 
+  
+- Ficção, Terror, Contos, Histórias e Mitologia
+- Formatos EPUB/PDF
+- Contato para Vendas: topverbs@gmail.com
+- Envio imediato
+- PIX/Transferência
+  
+
+---
 
 
 
@@ -30,7 +39,6 @@
 
 
 
----
 
 
 
@@ -46,28 +54,18 @@
 
 
 
-## Comprar
-
-
-
-  
-
-- Email: topverbs@gmail.com
-- Atendimento direto comigo
-- Envio imediato
-- PIX/Transferência
-
 
 ---
 
 
 
-## Contato
+## Autor
 
 
 
 - topverbs@gmail.com
-- instagram...
+- instagram
+- linkedin...
  
 
 
@@ -84,7 +82,7 @@
 
 <p align="center">
   <img src="./img/logogrim.png" alt="Descrição da imagem" style="border-radius: 50%;
-  width: 135px; height: 135px;">
+  width: 100px; height: 100px;">
 </p>
 
 
