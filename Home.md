@@ -1,4 +1,4 @@
-## Ebooks
+# Ebooks
 
 
 
@@ -6,28 +6,19 @@
 
 
 
-- Literatura Ficcional
-- Terror
-- Contos e Mitologia
----
-**Contato para Vendas**
-- topverbs@gmail.com
+
+
+
+
+
+<p align="left">
+  <img src="./img/2.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+</p>
+
+- PREÇO: 18,00 REAIS
 - Formatos EPUB/PDF
-- Envio imediato
-- PIX/Transferência
-  
-
----
-
-
-
-
-
-<p align="left">
-  <img src="./img/monolitoscriacao.png" alt="Descrição da img" style="width: 21%; height: 21%;">
-</p>
-
-- PREÇO: 18,00 REAIS
+- Atendimento direto/Envio imediato
+- E-mail: topverbs@gmail.com
 
 
 ---
@@ -35,12 +26,15 @@
 
 
 <p align="left">
-  <img src="./img/contosartico.png" alt="Descrição da img" style="width: 21%; height: 21%;">
+  <img src="./img/1.png" alt="Descrição da img" style="width: 21%; height: 21%;">
 </p>
 
 
 
 - PREÇO: 18,00 REAIS
+- Formatos EPUB/PDF
+- Atendimento direto/Envio imediato
+- E-mail: topverbs@gmail.com
 
 
 
@@ -59,20 +53,14 @@
 
 
 
-
-
 ---
 
 
 
-## Autor
 
 
-
-- topverbs@gmail.com
-- instagram
-- linkedin...
- 
+  
+# Sobre
 
 
 
@@ -81,6 +69,7 @@
 
 
 ---
+
 
 
 
